@@ -15,14 +15,11 @@ Un utilisateur peut choisir plusieurs opérations selon le menu.
 git clone https://github.com/Eya1001/untitled.git
 
 ## Démarrer l'application
-
-### Démarrer l'application via la ligne de commande
-
- 1- cd rootDirectory/src
- 2- javac Universite.java
+#### Démarrer l'application via la ligne de commande
+ 1. cd rootDirectory/src  
+ 2. javac Universite.java
 
 ###  Demarrer l'application via l'IDE
-
 1. Aller à src/
 2. Sélectionner le fichier universite.java
 3. Cliquer sur run
@@ -45,7 +42,5 @@ git clone https://github.com/Eya1001/untitled.git
                         i = s'inscrire à une activité  
                         d = se désinscrire d'une activité  
                         x = sortie  
-    
-
 
 
