@@ -1,4 +1,0 @@
-2023-06-16 08:30:25,449 - INFO - Start of calculation
-2023-06-16 08:30:25,449 - INFO - calculation of operator performance
-2023-06-16 08:30:25,453 - INFO - calculation of group performance
-2023-06-16 08:30:25,455 - INFO - End of calculation
